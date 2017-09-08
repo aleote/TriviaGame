@@ -1,0 +1,52 @@
+body {
+	background-image: url("https://static8.depositphotos.com/1252474/926/i/950/depositphotos_9265681-stock-photo-beer-background.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: center;
+}
+
+#header {
+	
+	font-size: 200%;
+	background-color:orange;
+	width:300px;
+	margin-left:600px;
+	text-align: center;
+}
+
+.timer {
+	margin-left:600px;
+	background-color:orange;
+	width: 300px; 
+}
+
+.question {
+	margin-left:600px;
+	background-color:orange;
+	width: 300px;
+}
+
+.answer {
+	margin-left:600px;
+}
+
+#buttonA, #buttonB, #buttonC, #buttonD {
+	margin-left:600px;
+	background-color:orange;
+	width: 300px;
+}
+
+#startButton {
+background:    #073763;
+background:    -webkit-linear-gradient(#073763, #ff9900);
+background:    linear-gradient(#073763, #ff9900);
+border-radius: 5px;
+padding:       8px 20px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal 700 24px/1 "Open Sans", sans-serif;
+text-align:    center;
+text-shadow:   1px 1px #000000;
+margin-left:530px;
+width:400px;
+}
